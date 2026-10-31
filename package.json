@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "For praccticing the automation concepts",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ronak515/qa-upskilling-45.git"
